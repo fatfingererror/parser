@@ -1,10 +1,10 @@
 ### Running the app
 From the directory where the code is cloned run:
-`python parser`
+`python parser <path_to_csv_file1> <path_to_csv_file2> <path_to_csv_file3>`
 
 e.g code is in /Users/dev/parser/
 * cd /Users/dev/
-* python parser
+* python parser <path_to_csv_file1> <path_to_csv_file2> <path_to_csv_file3>
 
 ### Running the tests
 From the directory where the code is cloned run:
